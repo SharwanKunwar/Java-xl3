@@ -3,9 +3,9 @@ package Array;
 //diagonal element manipulation
 
 /*
-0 2 5
+0 2 9
 8 0 7
-4 6 0
+3 6 0
  */
 
 public class ArrayQuestion02 {
